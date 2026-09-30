@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+
+*.pyc
+
+file_history.db
+*.log
+
+Archives/
+Documents/
+Images/
+Music/
+Other/
+Videos/
